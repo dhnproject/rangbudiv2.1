@@ -1,0 +1,23 @@
+{
+  "name": "RANGBUDI V1.4 - Keragaman Budaya Indonesia",
+  "short_name": "RANGBUDI",
+  "description": "Aplikasi Web Touchscreen Bahan Ajar Keragaman Budaya Indonesia",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#090d16",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "data/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
